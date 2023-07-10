@@ -1,0 +1,28 @@
+.calc_title{
+	margin-top: 0;
+	text-align: center;
+}
+.calc_field {
+	margin: 0 auto;
+	margin-top: 30px;
+	height: 40px;
+	width: 250px;
+	background-color: rgb(255, 255, 255);
+	text-align: right;
+	border-radius: 5px;
+	border: 1px solid black;
+	font-size: 25px;
+}
+
+.calc{
+	display: flex;
+	height: 400px;
+	width: 300px;
+	margin-top: 20px;
+	margin: auto;
+	background-color: rgb(193, 197, 192);
+	border-radius: 10px;
+	border: 1px solid black;
+	/* text-align: center; */
+}
+
